@@ -61,7 +61,7 @@ Nota: Los requisitos en negrita son priorizados para la primera entrega.
 
 ## Casos de Uso
 
-![Caso de Uso del Sistema]()
+![Caso de Uso del Sistema](https://raw.githubusercontent.com/eluqm/CS2024-2Grupo03/d2ba504ef9f12f59ab3de679240cc618ef54c4f1/Docs/imagenes/User%20Case.png)
 
 ---
 
