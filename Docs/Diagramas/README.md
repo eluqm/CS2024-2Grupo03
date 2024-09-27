@@ -2,7 +2,7 @@
 
 ## Diagrama Relacional de la Base de Datos | Versión 1.0
 
-![Diagrama Relacional](#)
+![Diagrama Relacional](https://raw.githubusercontent.com/eluqm/CS2024-2Grupo03/refs/heads/main/Docs/imagenes/DB%20Diagrama%20V%201.0.png)
 
 ## Diagrama de la Vista de Desarrolo del Sistema
 
@@ -12,9 +12,9 @@ En el presente diagrama de componentes el sistema se va a dividir en capas:
 - Capa de Servicios: en esta capa se desarrollará los procesos de negocios del sistema (Parte del **Backend**).
 - Capa Repositorio: en esta capa se encargará de la conexión, configuración y almacenamiento de la información en la Base de Datos.
 
-![Vista de Desarrollo](#)
+![Vista de Desarrollo](https://raw.githubusercontent.com/eluqm/CS2024-2Grupo03/refs/heads/main/Docs/imagenes/Diagrama%20de%20componentes.jpg)
 
 ## Diagrama de la Vista Física del Sistema
 En esta vista se muestra el los nodos del sistema. En el nodo del Servidor_Library se encontrarán el servidor de Aplicaciones y el servidor de la Base de Datos. En el nodo Movil_Usuario se instalará la aplicación que hará uso de los servicios del Backend.
 
-![Vista Física](#)
+![Vista Física](https://raw.githubusercontent.com/eluqm/CS2024-2Grupo03/refs/heads/main/Docs/imagenes/VISTA%20FISICA.png)

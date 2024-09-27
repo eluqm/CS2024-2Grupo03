@@ -38,7 +38,7 @@ App de de intercambio que permite elegir libros de un catálogo disponible, seg�
 - **Backend: SpringBoot**
 - **Docker**
 
-<h1 align="center">Libro</h1>
+<h1 align="center">Aplicación para Intercambio de Libros</h1>
 
 ## Enlace del Repositorio
 [Repositorio en GitHub](https://github.com/eluqm/CS2024-2Grupo03)
@@ -60,21 +60,31 @@ Repositorio Grupo 03
     
 # **Repositorio Grupo 03**
 
-## **1. [Código](#)**
+## **1. [Código](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Codigo)**
 
-### **1.1 [Backend](#)**
+### **1.1 [Backend](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Codigo/Backend)**
+En este directorio se encuentra el código y la configuración de Backend.
 
-#### **1.1.1 [Configuraciones](#)**
+#### **1.1.1 [Configuraciones](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Codigo/Backend/Configuraciones)**
 
-### **1.2 [Frontend](#)**
+En este directorio se encuentra configuración de Containers y de los servidores.
 
-## **2. [Documentación](#)**
+### **1.2 [Frontend](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Codigo/Frontend)**
 
-### **2.1 [Casos de Uso](#)**
+En este directorio se encuentra el código del Frontend (Proyecto en Android Studio).
 
-### **2.2 [Diagramas](#)**
+## **2. [Documentación](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Docs)**
 
-### **2.3 [Mockups](#)**
+En el presente directorio se encuentra la documentación del Proyecto del Curso.
 
-### **2.4 [Imagenes](#)**
+### **2.1 [Casos de Uso](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Docs/Casos%20de%20Uso)**
 
+Descripción de los Casos de Uso.
+
+### **2.2 [Diagramas](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Docs/Diagramas)**
+
+Diagramas del Diseño del Sistema.
+
+### **2.3 [Mockups](https://github.com/eluqm/CS2024-2Grupo03/tree/main/Docs/Mockups)**
+
+Mockups/Prototipos de Bajo Nivel del Sistema.
