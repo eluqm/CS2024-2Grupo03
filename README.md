@@ -31,7 +31,7 @@ App de de intercambio que permite elegir libros de un cat√°logo disponible, seg√
 ## Tegnologias a usar:
 
 - **Entorno: Kotlin Multi Platform (Android Studio)**  
-- **Base de Datos (SQL): Oracle**  
+- **Base de Datos (SQL): MariaDB**  
 - **Prototipado: Axure**  
 - **Lenguaje: Kotlin y Java**  
 - **Control de Versiones: Git y GitHub**  
