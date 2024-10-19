@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragmentos_Admin.Fragment_admin_dashboard">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:id="@+id/Ll_dasboard"
+        android:orientation="horizontal"
+        android:layout_marginstart="10dp"
+        android:layout_marginend="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <!--Publicar libro
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/Btn_publicar_libro"
+            android:text="@string/Btn_publicar_libro"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/agregar_img"
+            android:src= "@drawable/ic_upload"
+            android:layout_marginstart="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    --> lo comente por priebas
+</RelativeLayout>

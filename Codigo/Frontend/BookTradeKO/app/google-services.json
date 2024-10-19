@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649920895601",
+    "project_id": "app-libro-int-kotlin",
+    "storage_bucket": "app-libro-int-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649920895601:android:99094d6317e1e43ff519d0",
+        "android_client_info": {
+          "package_name": "com.example.booktrade_ko"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCawXW6kF-3EdNEO6aQshhKjNl1jXaeE54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

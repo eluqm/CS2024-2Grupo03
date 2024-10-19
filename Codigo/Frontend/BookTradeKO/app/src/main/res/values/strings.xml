@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookTrade-KO</string>
+
+    <string name="Menu_panel">Panel</string>
+    <string name="Menu_buscador">Buscador</string>
+    <string name="Menu_me_gusta">Me gusta</string>
+    <string name="Menu_cuenta">Cuenta</string>
+    <string name="Titulo_RL_Admin">Titulo</string>
+
+    <string name="Btn_publicar_libro">Publicar Libro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

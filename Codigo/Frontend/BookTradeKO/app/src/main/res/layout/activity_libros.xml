@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Titulo del libro -->
+    <EditText
+        android:id="@+id/tituloLibro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Título del libro"/>
+
+    <!-- Autor del libro -->
+    <EditText
+        android:id="@+id/autorLibro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Autor del libro"/>
+
+    <!-- Descripcion del libro -->
+    <EditText
+        android:id="@+id/descripcionLibro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Descripción del libro"/>
+
+    <!-- Boton para cargar la imagen del libro -->
+    <Button
+        android:id="@+id/btnCargarImagen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cargar Imagen"/>
+
+    <!-- Boton para publicar el libro -->
+    <Button
+        android:id="@+id/btnPublicarLibro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Publicar Libro"
+        android:layout_marginTop="20dp"/>
+
+    <!-- Condición del libro -->
+    <EditText
+        android:id="@+id/condicionLibro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Condicón del libro"/>
+</LinearLayout>
