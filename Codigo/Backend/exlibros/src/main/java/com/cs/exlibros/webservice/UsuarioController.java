@@ -17,6 +17,8 @@ public class UsuarioController {
 
     @Autowired
     private UsuarioRepository usuarioRepository;
+	@Autowired
+	private UsuarioService usuarioService;
 
 	@GetMapping("/allUsuarios")
 	public List<Usuario> getAllUsuarios() {
@@ -34,7 +36,7 @@ public class UsuarioController {
 	public boolean existeEmailUsuario(
 			@PathVariable String email
 	) {
-		return usuarioRepository.existe_email_usuario(email);
+		return usuarioService.existeEmailUsuario(email);
 	}
 
 	@GetMapping("/insertarUsuario/{nombres}/{apellidos}/{email}/{password}")
